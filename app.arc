@@ -1,6 +1,9 @@
 @app
 my-remix-app-f646
 
+@aws
+region eu-central-1
+
 @http
 /*
   method any
